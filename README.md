@@ -1,10 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Jatin%20Dahiya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%40%20LNMIIT%20%7C%20ML%20%7C%20NLP%20%7C%20Full%20Stack&descAlignY=55&descAlign=50" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6E40C9&height=200&section=header&text=Jatin%20Dahiya&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Systems%20Engineer%20%40%20TCS%20%7C%20Oracle%20Siebel%20CRM%20%7C%20JS%20%7C%20SQL&descAlignY=55&descAlign=50" />
 
 <img src="https://komarev.com/ghpvc/?username=jatindahiya027&label=Profile+Views&color=6E40C9&style=flat" alt="profile views" />
 &nbsp;
 <a href="https://www.linkedin.com/in/jatin-dahiya-027/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin" /></a>
+&nbsp;
+<a href="https://jatindahiya.com/"><img src="https://img.shields.io/badge/Portfolio-jatindahiya.com-6E40C9?style=flat&logo=google-chrome&logoColor=white" /></a>
+&nbsp;
+<a href="mailto:jatindahiya027@gmail.com"><img src="https://img.shields.io/badge/Gmail-jatindahiya027-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 &nbsp;
 <a href="https://github.com/jatindahiya027"><img src="https://img.shields.io/github/followers/jatindahiya027?label=Follow&style=flat&color=6E40C9" /></a>
 
@@ -14,23 +18,40 @@
 
 ## 👨‍💻 About Me
 
-```python
-class JatinDahiya:
-    def __init__(self):
-        self.name       = "Jatin Dahiya"
-        self.university = "LNMIIT, Jaipur"
-        self.degree     = "B.Tech — Computer Science & Engineering"
-        self.location   = "India 🇮🇳"
-        self.interests  = ["Machine Learning", "NLP", "Full Stack Dev", "Poker Bots 🃏"]
-        self.currently  = "Building cool ML projects & sharpening DSA"
-        self.fun_fact   = "I trained a poker bot — bluffing is just classification 😄"
+```javascript
+const jatin = {
+  name:        "Jatin Dahiya",
+  role:        "Systems Engineer @ Tata Consultancy Services",
+  location:    "Hyderabad, Telangana, India 🇮🇳",
+  education:   "B.Tech CS — LNMIIT (2019–2023)",
+  expertise:   ["Oracle Siebel CRM", "JavaScript", "SQL", "Enterprise Solutions"],
+  experience:  "2+ years building & customizing CRM applications at TCS",
+  interests:   ["ML/NLP", "Game Dev 🎮", "Full Stack", "Poker Bots 🃏"],
+  website:     "https://jatindahiya.com",
+  funFact:     "I trained a poker bot — bluffing is just classification 😄",
+};
 
-    def say_hi(self):
-        print("Thanks for visiting my profile! Let's build something amazing.")
-
-me = JatinDahiya()
-me.say_hi()
+console.log("Thanks for visiting! Let's build something amazing.");
 ```
+
+---
+
+## 💼 Experience
+
+### 🏢 Tata Consultancy Services — Systems Engineer
+**Dec 2023 – Present · Hyderabad, India**
+
+- 🔧 Managing and customizing **Oracle Siebel CRM** applications to optimize business processes
+- 💻 Developing enterprise solutions using **JavaScript** for client-specific requirements
+- 🗄️ Designing and maintaining **SQL databases** for data integrity and efficient querying
+- 🤝 Collaborating with cross-functional teams to deliver high-quality software within deadlines
+- 📈 Focused on continuous learning and driving innovation for client value
+
+### 🎮 Atthah — Game Developer Intern
+**Jun 2022 – Jul 2022 · 2 months**
+
+- Built projects ranging from **2D UI games** to **metaverse experiences**
+- Strengthened skills in teamwork, problem-solving, communication, and time management
 
 ---
 
@@ -38,11 +59,13 @@ me.say_hi()
 
 <div align="center">
 
-**Languages**
+**Core Skills**
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle_Siebel_CRM-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -52,7 +75,6 @@ me.say_hi()
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![NLTK](https://img.shields.io/badge/NLTK-3c7ab7?style=for-the-badge&logo=python&logoColor=white)
 
 **Tools & Platforms**
 
@@ -101,10 +123,12 @@ me.say_hi()
 
 | 🎯 Milestone | Status |
 |---|---|
-| 🗂️ Created 40+ repositories | ✅ Done |
+| 🏢 Joined TCS as Systems Engineer | ✅ Done |
+| 🎮 Game Dev Internship at Atthah | ✅ Done |
+| 🎓 B.Tech CS from LNMIIT | ✅ Done |
 | 🤖 Built an AI Poker Bot | ✅ Done |
 | 🧠 Completed NLP project | ✅ Done |
-| 🌐 Built a full website | ✅ Done |
+| 🌐 Built personal website | ✅ Done |
 | ⭐ Earn 50 GitHub stars | 🔄 In progress |
 | 🤝 Contribute to open source | 🔄 In progress |
 
@@ -130,8 +154,12 @@ me.say_hi()
   <img src="https://img.shields.io/badge/LinkedIn-Jatin_Dahiya-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://github.com/jatindahiya027">
-  <img src="https://img.shields.io/badge/GitHub-jatindahiya027-181717?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://jatindahiya.com/">
+  <img src="https://img.shields.io/badge/Portfolio-jatindahiya.com-6E40C9?style=for-the-badge&logo=google-chrome&logoColor=white" />
+</a>
+&nbsp;
+<a href="mailto:jatindahiya027@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-jatindahiya027-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <br/><br/>
